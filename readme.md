@@ -38,7 +38,7 @@ Good input email
 #### Test 4 
 Bad input email
 
-![test4](img/test1.png)
+![test4](img/test4.png)
 
 ### Challenges encountered
   - The operator function needs to be a non-static member function caused issues
